@@ -40,7 +40,7 @@ async function getFastestValidAnswer(prompt, senderID) {
   throw new Error('All services failed to provide a valid answer');
 }
 
-const ArYAN = ['ai', '-ai'];
+const ArYAN = ['ai', '¥ai'];
 
 module.exports = {
   config: {
@@ -60,8 +60,8 @@ module.exports = {
   langs: {
     en: {
       final: "",
-      header: "🧋✨ | 𝗶𝘆𝗮𝘀 𝗔𝗶\n━━━━━━━━━━━━━━━━",
-      footer: "━━━━━━━━━━━━━━━━",
+      header: "🎉🎊 |🌹𝗜𝗬𝗔𝗦 𝗚𝗢𝗔𝗧𝗕𝗢𝗧🌹 ━━━━━━━━━━━━━━━━",
+      footer: "𝗛𝗢𝗡𝗢𝗥𝗘 🌹🌹🌹━━━━━━━━━━━",
     }
   },
 
