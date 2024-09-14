@@ -15,6 +15,6 @@ onChat: async function({
     message,
     getLang
 }) {
-    if (event.body && event.body.toLowerCase() == "🌹") return message.reply("🌹 𝐣𝐞 𝐯𝐨𝐢𝐬 𝐥𝐞𝐬 𝐫𝐨𝐬𝐞𝐬 𝐝𝐞 𝐦𝐚 𝐯𝐢𝐞 🩸🩸𝐦𝐞𝐫𝐜𝐢 𝐛𝐞𝐚𝐮𝐜𝐢𝐮𝐩 🩸🩸  𝐈 𝐥𝐨𝐯𝐞 𝐲𝐨𝐮?");
+    if (event.body && event.body.toLowerCase() == "🌹") return message.reply("🌹 𝐖𝐨𝐰😍🤩... 𝐥𝐚 𝐫𝐨𝐬𝐞 🩸🩸𝐦𝐞𝐫𝐜𝐢 𝐛𝐞𝐚𝐮𝐜𝐨𝐮𝐩 🩸🩸 𝐉𝐞 𝐯𝐚𝐢 𝐥𝐞 𝐜𝐨𝐧𝐬𝐞𝐫𝐯𝐞𝐫  𝐩𝐨𝐮𝐫 𝐦𝐨𝐧 𝐦𝐚𝐢𝐭𝐫𝐞  ");
 }
 }
