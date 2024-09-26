@@ -12,13 +12,13 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "Tenjiro ",
-  "prefix": "√",
+  "nickNameBot": "｟ . ｠❃➱𝙕𝙀𝙋𝙃𝙔𝙍𝙐𝙎 𓃵",
+  "prefix": ".",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [100095117155517],
+  "adminBot": [61566232924755],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
